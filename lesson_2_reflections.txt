@@ -24,4 +24,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 git log --graph --oneline <> <>
 
-git show <commitid> [diff ... after merge .. interleaved commit-ids] 
+git show <commitid> [diff ... after merge .. interleaved commit-ids]
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
